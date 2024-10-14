@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "Developing a Web Application with React and React Router," where I’m focused on creating a dynamic platform for Kasa, a rental company.<br><br>🌱 I’m currently learning JavaScript and React Framework to create interactive and user-friendly applications.<br><br>👨‍💻 All of my projects are available at https://github.com/ssidikov<br><br>📫 How to reach me sardorbek.sidikov7@gmail.com
+🔭 I’m currently Developing a Web Application with React and React Router, where I’m focused on creating a dynamic platform for Kasa, a rental company.<br><br>🌱  I’m deepening my knowledge of JavaScript and the React framework to create interactive and user-friendly applications.<br><br>👨‍💻 All of my projects are available at https://github.com/ssidikov<br><br>📫 How to reach me sardorbek.sidikov7@gmail.com
 
 
 ## 🌐 Socials:
