@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Developing a Web Application with React<br><br>🌱 I’m deepening my knowledge of JavaScript and the React framework to create interactive and user-friendly applications.<br><br>👨‍💻 All of my projects are available at https://github.com/ssidikov<br><br>📫 How to reach me sardorbek.sidikov7@gmail.com
+🔭 I’m currently Developing Web Applications with React and Next.js<br><br>🌱 I’m deepening my knowledge of JavaScript and the React framework to create interactive and user-friendly applications.<br><br>👨‍💻 All of my projects are available at https://github.com/ssidikov<br><br>📫 How to reach me sardorbek.sidikov7@gmail.com
 
 
 ## 🌐 Socials:
