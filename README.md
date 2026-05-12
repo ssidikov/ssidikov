@@ -12,7 +12,7 @@
 
 ## About me
 
-I build frontend apps with React, Next.js and Angular¥.
+I build frontend apps with React, Next.js and Angular.
 
 I like interfaces that are clear and fast, and I pay attention to small interaction details.
 
